@@ -1,7 +1,9 @@
 # Hi there, I'm Andrew! 👋
 
+
+
 <p align="left">
-  <img width="49%" src="https://streak-stats.demolab.com/?user=avan3&theme=highcontrast" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=avan3&theme=dark" />
 <!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=avan3&show_icons=true&theme=radical" /> -->
   <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avan3&layout=compact" />
 </p>
