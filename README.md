@@ -1,10 +1,10 @@
-# Hi there, I'm Andrew! 👋
+# Hi there, I'm Andrew! 🙋‍♂️
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=avan3.avan3&color=00cf00)
 
 ## 👋 About Me
-- Experienced Software Developer at TD Bank
-- Starting a freelance journey
+- Experienced Software Developer and Freelancer
+- Passionate about crafting pixel-perfect websites that combine stunning design with seamless functionality
 
 ## 💻 Skills
 <img align="left" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
@@ -17,6 +17,6 @@
 
 <br></br>
 ## 🔥 Streak Stats
-| Stats    | Streak    | Languages    
+| Stats | Streak | Languages    
 | :---: | :---: | :---: 
 |<a href="https://github.com/avan3"><img alt="Andrew's Github Stats" src="https://github-readme-stats.vercel.app/api?username=avan3&rank_icon=github&show_icons=true&theme=great-gatsby" height="190px"/></a>|<img src="https://streak-stats.demolab.com/?user=avan3&theme=gruvbox-duo" alt="avan3Streak"/>|<img alt="Andrew's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avan3&layout=compact&theme=great-gatsby" />
