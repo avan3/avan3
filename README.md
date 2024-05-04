@@ -18,4 +18,4 @@
 ## 🔥 Streak Stats
 | Stats | Streak | Languages    
 | :---: | :---: | :---: 
-|<a href="https://github.com/avan3"><img alt="Andrew's Github Stats" src="https://github-readme-stats.vercel.app/api?username=avan3&rank_icon=github&show_icons=true&theme=great-gatsby" height="190px"/></a>|<img src="https://streak-stats.demolab.com/?user=avan3&theme=gruvbox-duo" alt="avan3Streak"/>|<img alt="Andrew's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avan3&layout=compact&theme=great-gatsby" />
+|<a href="https://github.com/avan3"><img alt="Andrew's Github Stats" src="https://github-readme-stats.vercel.app/api?username=avan3&rank_icon=github&show_icons=true&theme=great-gatsby" height="190px"/></a>|<img src="https://streak-stats.demolab.com/?user=avan3&theme=dark" alt="avan3Streak"/>|<img alt="Andrew's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avan3&layout=compact&theme=great-gatsby" />
